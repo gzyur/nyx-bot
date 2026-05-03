@@ -1,6 +1,6 @@
 ## Sobre
 
-Nyx é a assistente oficial do meu servidor privado. Desenvolvida em Discord.js v14, conta com personalidade própria, sistema de níveis, moderação completa e integração com inteligência artificial para respostar personalizadas.
+Nyx é a assistente oficial do meu servidor privado. Desenvolvida em Discord.js v14, conta com personalidade própria, sistema de níveis, moderação completa e integração com inteligência artificial para respostas personalizadas.
 
 <div align="center">
 <br/>
